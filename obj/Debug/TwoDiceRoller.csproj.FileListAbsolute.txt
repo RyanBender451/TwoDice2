@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2017\Projects\TwoDiceRoller\TwoDiceRoller\bin\Debug\TwoDiceRoller.exe.config
+c:\users\owner\documents\visual studio 2017\Projects\TwoDiceRoller\TwoDiceRoller\bin\Debug\TwoDiceRoller.exe
+c:\users\owner\documents\visual studio 2017\Projects\TwoDiceRoller\TwoDiceRoller\bin\Debug\TwoDiceRoller.pdb
+c:\users\owner\documents\visual studio 2017\Projects\TwoDiceRoller\TwoDiceRoller\obj\Debug\TwoDiceRoller.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\TwoDiceRoller\TwoDiceRoller\obj\Debug\TwoDiceRoller.exe
+c:\users\owner\documents\visual studio 2017\Projects\TwoDiceRoller\TwoDiceRoller\obj\Debug\TwoDiceRoller.pdb
